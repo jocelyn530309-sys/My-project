@@ -180,21 +180,3 @@ This allows us to compare space usage at a broader campus level and understand w
 
 ### Purpose
 This makes the results more intuitive by showing occupancy patterns on a campus map, which can be useful for presentations to non-technical audiences.
-
-
-## 11. Outlier and Follow-Up Issue Analysis
-
-### What we can analyse
-- Records with `value < 0`
-- Records with `value = 0`
-- Records where `value > room capacity`
-- `locationcode` values that cannot be matched with room metadata
-- Rooms with missing capacity or building information
-
-### Possible charts / methods
-- Abnormal records table
-- Count summary table
-- Bar chart: number of abnormal records by building / room type
-
-### Purpose
-This helps us summarise key data issues and prepare follow-up questions for KIT or the supervisor.
