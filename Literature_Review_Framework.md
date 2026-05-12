@@ -28,12 +28,10 @@ The key idea of this section is that occupancy data can help universities identi
   This review discusses how machine-learning-based occupancy prediction can support more efficient building operation, better indoor air quality, and improved thermal comfort. It provides a broad background for understanding why occupancy information is valuable in building management. For our project, it helps justify why analysing occupancy data is an important first step before moving towards forecasting or management recommendations.
 
 * **The relationship between energy use and space use of higher educational buildings in subtropical Australia**
-  *Author/year to be confirmed.*
 
   This study focuses on higher education buildings and discusses the relationship between space use and energy use. It is relevant to our project because it shows that university space utilisation is not only a scheduling issue, but may also be connected to building operation and energy performance. This supports our project’s focus on understanding actual space use through occupancy data.
 
 * **Campus Building Spaces and Energy Use Case Study**
-  *Author/year to be confirmed.*
 
   This case study discusses the use of different campus building spaces and their energy-related implications. It is useful for our project because we may also compare occupancy across different buildings, locations, or room types. It supports the idea that campus spaces should be analysed at the room or building level, rather than only as one overall system.
 
@@ -52,7 +50,6 @@ The key idea of this section is that occupancy analysis should first identify te
 ### Relevant literature
 
 * **Identifying occupancy patterns and profiles in higher education institution buildings with high occupancy density – a case study**
-  *Author/year to be confirmed.*
 
   This study identifies occupancy patterns and occupancy profiles in higher education buildings. It is directly relevant to our project because it shows that occupancy data can be used to classify or compare different building-use patterns. For our project, this supports the idea of analysing rooms or buildings based on their actual occupancy profiles.
 
@@ -81,8 +78,7 @@ The key idea of this section is that occupancy data should not only be described
 ### Relevant literature
 
 * **Space Utilisation Rate of Public Higher Education Classrooms in Klang Valley**
-  *Author/year to be confirmed.*
-
+  
   This study focuses on classroom space utilisation in public higher education institutions. It is useful because it directly discusses how classroom usage can be measured through utilisation rate. For our project, it supports the idea that we should move beyond raw occupancy counts and construct indicators that show how efficiently different rooms are used.
 
 * **Classroom size, activity and attendance: Scaling up drivers of learning space occupation**
@@ -115,12 +111,10 @@ The key idea of this section is that occupancy analysis can provide evidence for
   This study examines how university timetabling can be optimised while considering building energy efficiency. It connects course scheduling, classroom occupancy patterns, and energy consumption. For our project, it is useful because it shows that occupancy and timetable data can support more efficient space use and future campus operation planning.
 
 * **Occupancy-Based Energy Management in Buildings**
-  *Author/year to be confirmed.*
 
   This report discusses how occupancy information can support building energy management. For example, if a building system knows which spaces are occupied and which spaces are empty, it can adjust HVAC, lighting, and ventilation more efficiently. It is relevant to our project because occupancy analysis may help identify when and where potential energy-saving opportunities exist.
 
 * **A review of occupancy-based building energy and IEQ controls and their underlying techniques**
-  *Author/year to be confirmed.*
 
   This review summarises how occupancy-based controls can improve building energy performance and indoor environmental quality, including thermal comfort, air quality, and lighting control. It supports the broader value of occupancy data in smart building management. For our project, this literature helps explain why occupancy analysis can be useful not only for space utilisation, but also for future energy management and indoor-environment control.
 
