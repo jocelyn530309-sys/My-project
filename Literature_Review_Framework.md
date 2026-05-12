@@ -2,7 +2,7 @@
 
 ## Occupancy Analysis and Space Utilisation in University Buildings
 
-This literature review framework is designed to support our current project on occupancy analysis in university teaching and learning spaces. At this stage, the purpose is not to produce a complete final literature review, but to guide our later data analysis. Specifically, the framework helps us understand how campus spaces are actually used, how occupancy patterns may vary, and how raw occupancy data can be transformed into meaningful space-utilisation indicators.
+This literature review framework is designed to support our current project on occupancy analysis in university teaching and learning spaces. Specifically, the framework helps us understand how campus spaces are actually used, how occupancy patterns may vary, and how raw occupancy data can be transformed into meaningful space-utilisation indicators.
 
 The framework is organised into four connected parts. The logic moves from the project background, to occupancy patterns, then to measurable indicators, and finally to practical implications for campus management and potential energy-saving opportunities.
 
