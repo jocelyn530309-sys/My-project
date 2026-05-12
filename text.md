@@ -12,7 +12,7 @@ At the moment, the most direct information from our occupancy data is how many p
 
 The literature also gives us some useful ideas. For example, we can create some simple indicators, such as average occupancy, peak occupancy, empty time, and utilisation rate.
 
-Also, some studies remind us that sensor data may not always be fully reliable. So, we still need to do basic data quality checks before analysis. For example, we need to check missing values, abnormal values, duplicate records, and time fields. This is also related to our previous discussion about the value column, because we have already done some basic checks and discussed how to understand negative values and abnormal values.
+Also, some studies remind us that sensor data may not always be fully reliable. So, we still need to do basic data quality checks before analysis. For example, we need to check missing values, abnormal values etc. This is also related to our previous discussion about the value column, because we have already done some basic checks and discussed how to understand negative values and abnormal values.
 
 So, the main point of Part 3 is that we should not only describe the raw occupancy numbers. We need to turn the data into more useful information. This will help us compare the use of different rooms, different time periods, and different buildings later.
 
