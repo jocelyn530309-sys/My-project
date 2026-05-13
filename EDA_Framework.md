@@ -4,14 +4,12 @@
 
 ### What we can analyse
 - Missing values
-- Duplicate records
 - Whether timestamp fields can be correctly converted
 - Whether occupancy values contain negative values, zeros, or extreme values
 - Whether `locationcode` can be matched with room and building metadata
 
 ### Possible charts / methods
 - Missing value table
-- Duplicate count summary
 - Descriptive statistics table
 - Top abnormal values table
 
